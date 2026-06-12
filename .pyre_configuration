@@ -1,0 +1,10 @@
+{
+  "source_directories": [
+    {
+      "import_root": ".",
+      "source": "."
+    }
+  ],
+  "strict_handling_of_missing_sources": false,
+  "ignore_all_errors": true
+}
